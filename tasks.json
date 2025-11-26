@@ -1,0 +1,12 @@
+{
+    "last_id": 1,
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Buy groceries and cook dinner",
+            "status": "done",
+            "createdAt": "2025-11-21T14:26:50",
+            "updatedAt": "2025-11-21T15:30:34"
+        }
+    ]
+}
